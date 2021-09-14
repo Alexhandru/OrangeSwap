@@ -1,0 +1,22 @@
+{
+  "short_name": "Snakeswap",
+  "name": "Snakeswap",
+  "icons": [
+    {
+      "src": "./images/Icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/Icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#C43535",
+  "background_color": "#fff"
+}
